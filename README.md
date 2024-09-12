@@ -21,3 +21,9 @@ O In Orbit é mais do que apenas um aplicativo, é seu companheiro pessoal na co
 * **Empoderamento:** Assuma o controle da sua vida e alcance o sucesso em seus próprios termos.
 
 Deixe o In Orbit te guiar em sua jornada. Baixe agora e comece a explorar o universo das suas possibilidades!
+
+### Comandos
+
+docker composer up -d (iniciar banco de dados)
+npm run dev (Iniciar servido)
+npx drizzle-kit studio (Iniciar servido drizzle (interface) para o banco de dados)
